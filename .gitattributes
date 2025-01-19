@@ -1,3 +1,2 @@
-*.cc    text
-*.cpp   text
-*.h     text
+*.cc linguist-language=C++
+*.h linguist-language=C++
