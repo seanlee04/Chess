@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This chess game, built using C++, offers an engaging experience with both text-based and graphical interfaces, designed for human players. It provides a solid foundation for exploring game mechanics, object-oriented design, and efficient use of data structures. The game supports various player configurations, delivering a fun and interactive experience while showcasing the power of C++ in implementing complex systems.
+Step into the world of C++ programming through this immersive chess game, offering an engaging experience with both text-based and graphical interfaces. It provides a solid foundation for exploring game mechanics, object-oriented design, and efficient use of data structures. The game supports various player configurations, delivering a fun and interactive experience while showcasing the power of C++ in implementing complex systems.
 
 ## Game Features
 
