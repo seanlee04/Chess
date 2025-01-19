@@ -1,2 +1,0 @@
-*.cc    text
-*.h     text
